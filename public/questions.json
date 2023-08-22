@@ -209,4 +209,30 @@
     "options": ["return", "explicit", "toEnd"],
     "response": "return"
   }
+  [
+  {
+    "question": "Qual função é usada para exibir um alerta para o usuário?",
+    "options": ["prompt()", "log()", "alert()"],
+    "response": "alert()"
+  },
+  {
+    "question": "Qual símbolo é usado para comentários de uma única linha em JavaScript?",
+    "options": ["//", "/* */", "#"],
+    "response": "//"
+  },
+  {
+    "question": "Qual método é usado para remover o último elemento de um array?",
+    "options": ["pop()", "shift()", "removeLast()"],
+    "response": "pop()"
+  },
+  {
+    "question": "Qual operador lógico é usado para verificar se duas condições são ambas verdadeiras?",
+    "options": ["||", "&&", "!"],
+    "response": "&&"
+  },
+  {
+    "question": "Qual método é usado para converter uma string em letras maiúsculas?",
+    "options": ["toUpperCase()", "toLowerCase()", "convertCase('uppercase')"],
+    "response": "toUpperCase()"
+  }
 ]
